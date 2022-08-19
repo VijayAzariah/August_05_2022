@@ -6,6 +6,7 @@ public class Sample {
 		
 		System.out.println("Hi");
 		System.out.println("Welcome to first day of Git_Classes");
+		System.out.println("cloning done");
 	}
 
 }
