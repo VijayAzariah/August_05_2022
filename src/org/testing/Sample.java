@@ -8,6 +8,7 @@ public class Sample {
 		System.out.println("Welcome to first day of Git_Classes");
 		System.out.println("cloning done");
 		System.out.println("Hi Manikandan");
+		System.out.println("Im Senthil");
 	}
 
 }
